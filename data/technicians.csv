@@ -1,0 +1,7 @@
+technician_id,technician_name,hired_on,left_on,employment_type
+1,Arjun,2025-05-01,,full-time
+2,Mei,2025-05-01,,full-time
+3,Daniel,2025-05-01,2026-04-30,part-time
+4,Simran,2025-09-02,,full-time
+5,Reza,2026-03-02,,full-time
+6,Grace,2026-09-14,,full-time

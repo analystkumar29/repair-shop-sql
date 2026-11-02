@@ -1,0 +1,38 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Generate the synthetic data
+        run: python generate_data.py
+
+      - name: Run the queries
+        run: python run_queries.py
+
+      - name: Run the tests
+        run: pytest
+
+      - name: Check the committed CSVs and results match a fresh run
+        run: |
+          if [ -n "$(git status --porcelain -- data results)" ]; then
+            git status --short -- data results
+            echo "::error::data/ or results/ differ from a fresh run. Re-run generate_data.py and run_queries.py, then commit."
+            exit 1
+          fi

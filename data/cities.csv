@@ -1,0 +1,13 @@
+city_id,city_name,travel_fee,service_days
+1,Burnaby,0.00,Every day
+2,Vancouver,0.00,Every day
+3,New Westminster,0.00,Every day
+4,Richmond,10.00,Every day
+5,Coquitlam,10.00,Every day
+6,North Vancouver,15.00,Every day
+7,Port Coquitlam,15.00,Every day
+8,Surrey,15.00,Every day
+9,Delta,20.00,Every day
+10,Langley,25.00,"Tue, Thu, Sat"
+11,Maple Ridge,25.00,"Wed, Sat"
+12,Abbotsford,35.00,"Tue, Fri"

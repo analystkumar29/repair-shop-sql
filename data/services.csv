@@ -1,0 +1,9 @@
+service_id,service_name,device_type,base_price,duration_minutes
+1,Screen replacement,phone,149.00,50
+2,Battery replacement,phone,89.00,35
+3,Charging port repair,phone,99.00,40
+4,Back glass replacement,phone,129.00,75
+5,Camera repair,phone,119.00,40
+6,Screen replacement,laptop,379.00,90
+7,Battery replacement,laptop,199.00,60
+8,Keyboard replacement,laptop,259.00,100

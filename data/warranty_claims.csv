@@ -1,0 +1,202 @@
+claim_id,booking_id,claimed_at,reason,outcome
+1,14,2025-05-17 06:19:00,Sticky keys,approved
+2,16,2025-05-29 01:39:00,Battery draining fast,approved
+3,66,2025-06-11 11:34:00,Display flicker or lines,approved
+4,9,2025-06-13 03:11:00,Display flicker or lines,approved
+5,260,2025-07-01 17:25:00,Screen lifting,approved
+6,264,2025-07-02 00:45:00,Display flicker or lines,rejected
+7,312,2025-07-04 00:16:00,Display flicker or lines,rejected
+8,221,2025-07-11 05:51:00,Battery health warning,approved
+9,190,2025-07-11 07:05:00,Display flicker or lines,approved
+10,175,2025-07-12 19:41:00,Not charging,approved
+11,354,2025-07-22 15:25:00,Screen lifting,approved
+12,309,2025-07-25 18:35:00,Back glass lifting,approved
+13,33,2025-08-01 12:00:00,Battery draining fast,approved
+14,346,2025-08-05 13:26:00,Touch not responding,approved
+15,394,2025-08-08 06:40:00,Battery draining fast,approved
+16,476,2025-08-08 07:37:00,Battery health warning,rejected
+17,447,2025-08-14 07:17:00,Battery draining fast,rejected
+18,197,2025-08-19 02:15:00,Touch not responding,rejected
+19,531,2025-08-23 12:09:00,Display flicker or lines,approved
+20,719,2025-09-10 01:33:00,Back glass lifting,approved
+21,518,2025-09-10 19:15:00,Battery health warning,approved
+22,785,2025-09-11 11:44:00,Loose cable connection,rejected
+23,738,2025-09-12 21:15:00,Battery health warning,rejected
+24,484,2025-09-12 23:59:00,Battery health warning,rejected
+25,796,2025-09-20 13:56:00,Loose cable connection,approved
+26,422,2025-09-21 20:56:00,Loose cable connection,approved
+27,659,2025-09-24 01:40:00,Battery draining fast,approved
+28,783,2025-09-29 17:20:00,Back glass lifting,approved
+29,745,2025-09-30 23:33:00,Battery health warning,approved
+30,828,2025-10-01 13:56:00,Battery draining fast,approved
+31,923,2025-10-02 09:50:00,Display flicker or lines,approved
+32,908,2025-10-02 10:10:00,Display flicker or lines,approved
+33,934,2025-10-03 09:20:00,Touch not responding,approved
+34,847,2025-10-04 19:00:00,Display flicker or lines,approved
+35,890,2025-10-05 23:27:00,Display flicker or lines,approved
+36,773,2025-10-06 07:01:00,Loose cable connection,rejected
+37,858,2025-10-06 17:02:00,Display flicker or lines,approved
+38,731,2025-10-07 16:44:00,Display flicker or lines,approved
+39,935,2025-10-10 09:50:00,Screen lifting,approved
+40,965,2025-10-16 03:17:00,Touch not responding,approved
+41,556,2025-10-19 01:15:00,Sticky keys,rejected
+42,947,2025-10-20 07:02:00,Not charging,approved
+43,1088,2025-10-28 12:29:00,Back glass lifting,approved
+44,617,2025-11-02 16:51:00,Touch not responding,approved
+45,1124,2025-11-02 19:05:00,Battery health warning,approved
+46,1024,2025-11-03 04:38:00,Touch not responding,rejected
+47,1064,2025-11-06 01:33:00,Screen lifting,approved
+48,698,2025-11-07 05:15:00,Display flicker or lines,approved
+49,906,2025-11-07 22:38:00,Screen lifting,approved
+50,795,2025-11-11 21:33:00,Back glass lifting,approved
+51,957,2025-11-19 18:13:00,Back glass lifting,approved
+52,472,2025-11-21 22:05:00,Camera not focusing,rejected
+53,1149,2025-11-23 13:41:00,Not charging,approved
+54,1319,2025-11-28 17:56:00,Battery health warning,rejected
+55,1316,2025-12-02 23:06:00,Loose cable connection,approved
+56,548,2025-12-09 08:38:00,Display flicker or lines,approved
+57,1241,2025-12-10 18:23:00,Blurry photos,approved
+58,1346,2025-12-11 12:46:00,Touch not responding,approved
+59,1019,2025-12-15 23:59:00,Battery health warning,approved
+60,1220,2025-12-18 04:47:00,Display flicker or lines,rejected
+61,1269,2025-12-20 11:11:00,Display flicker or lines,approved
+62,1505,2025-12-24 01:48:00,Battery draining fast,approved
+63,815,2025-12-27 15:53:00,Not charging,rejected
+64,1288,2026-01-02 07:30:00,Blurry photos,approved
+65,1515,2026-01-03 03:48:00,Battery draining fast,approved
+66,1538,2026-01-04 14:35:00,Touch not responding,approved
+67,1264,2026-01-07 23:03:00,Loose cable connection,approved
+68,1659,2026-01-09 03:28:00,Touch not responding,approved
+69,1488,2026-01-12 22:49:00,Screen lifting,approved
+70,1225,2026-01-13 00:01:00,Not charging,approved
+71,1358,2026-01-13 19:14:00,Not charging,approved
+72,864,2026-01-17 11:07:00,Touch not responding,approved
+73,1529,2026-01-18 08:39:00,Battery health warning,approved
+74,1512,2026-01-20 07:41:00,Not charging,approved
+75,1210,2026-01-20 22:29:00,Touch not responding,approved
+76,1156,2026-01-23 02:09:00,Screen lifting,rejected
+77,1786,2026-01-26 16:04:00,Battery draining fast,approved
+78,1636,2026-01-27 21:21:00,Battery health warning,approved
+79,1763,2026-01-27 23:06:00,Loose cable connection,approved
+80,1641,2026-01-31 04:18:00,Dead pixels,approved
+81,1818,2026-02-02 18:24:00,Screen lifting,approved
+82,1612,2026-02-06 23:50:00,Touch not responding,approved
+83,1655,2026-02-07 09:57:00,Back glass lifting,approved
+84,1398,2026-02-07 22:19:00,Screen lifting,approved
+85,741,2026-02-11 04:32:00,Touch not responding,approved
+86,1299,2026-02-11 14:45:00,Display flicker or lines,rejected
+87,1554,2026-02-15 01:49:00,Display flicker or lines,approved
+88,1770,2026-02-15 05:42:00,Display flicker or lines,approved
+89,1951,2026-02-15 15:18:00,Camera not focusing,approved
+90,1726,2026-02-16 20:35:00,Display flicker or lines,approved
+91,1959,2026-02-20 04:18:00,Screen lifting,approved
+92,1884,2026-02-22 15:35:00,Camera not focusing,approved
+93,1368,2026-02-25 09:40:00,Loose cable connection,approved
+94,1857,2026-02-25 14:50:00,Blurry photos,approved
+95,1390,2026-02-27 05:45:00,Loose cable connection,approved
+96,1608,2026-02-28 00:31:00,Back glass lifting,approved
+97,2033,2026-03-01 18:09:00,Display flicker or lines,approved
+98,1881,2026-03-03 00:12:00,Battery draining fast,approved
+99,1821,2026-03-04 01:24:00,Battery health warning,approved
+100,1994,2026-03-07 21:33:00,Keys not registering,approved
+101,2066,2026-03-08 07:56:00,Screen lifting,approved
+102,1810,2026-03-14 04:46:00,Display flicker or lines,approved
+103,1814,2026-03-16 20:36:00,Back glass lifting,rejected
+104,1933,2026-03-18 06:38:00,Touch not responding,approved
+105,2146,2026-03-18 14:30:00,Battery draining fast,approved
+106,2023,2026-03-21 01:49:00,Blurry photos,rejected
+107,2175,2026-03-21 05:29:00,Not charging,approved
+108,1944,2026-03-22 04:08:00,Loose cable connection,approved
+109,1912,2026-03-24 10:08:00,Battery draining fast,approved
+110,1807,2026-03-28 00:14:00,Loose cable connection,approved
+111,2247,2026-03-31 07:30:00,Display flicker or lines,approved
+112,2147,2026-03-31 20:37:00,Display flicker or lines,approved
+113,2223,2026-04-01 11:08:00,Not charging,rejected
+114,2241,2026-04-01 14:53:00,Touch not responding,approved
+115,2242,2026-04-03 07:28:00,Battery health warning,approved
+116,1000,2026-04-03 14:06:00,Loose cable connection,rejected
+117,2200,2026-04-10 04:25:00,Touch not responding,approved
+118,1228,2026-04-16 03:12:00,Blurry photos,approved
+119,2297,2026-04-16 07:24:00,Battery health warning,approved
+120,2011,2026-04-21 15:43:00,Not charging,approved
+121,1993,2026-04-26 18:09:00,Display flicker or lines,approved
+122,2017,2026-05-01 12:08:00,Dead pixels,approved
+123,2116,2026-05-01 14:12:00,Screen lifting,approved
+124,2419,2026-05-02 01:27:00,Loose cable connection,approved
+125,2539,2026-05-03 04:12:00,Back glass lifting,approved
+126,2465,2026-05-03 17:22:00,Back glass lifting,approved
+127,2097,2026-05-07 13:47:00,Display flicker or lines,approved
+128,2616,2026-05-15 09:37:00,Back glass lifting,approved
+129,2258,2026-05-16 08:46:00,Battery health warning,approved
+130,2339,2026-05-22 01:43:00,Camera not focusing,approved
+131,2194,2026-05-27 19:03:00,Touch not responding,approved
+132,2579,2026-06-07 09:25:00,Not charging,approved
+133,2486,2026-06-07 20:13:00,Touch not responding,approved
+134,2592,2026-06-10 07:26:00,Display flicker or lines,rejected
+135,2677,2026-06-13 15:05:00,Screen lifting,approved
+136,2950,2026-06-14 01:40:00,Back glass lifting,approved
+137,2692,2026-06-17 10:44:00,Blurry photos,approved
+138,1948,2026-06-22 08:21:00,Screen lifting,approved
+139,2844,2026-06-22 13:08:00,Sticky keys,approved
+140,2526,2026-06-23 13:52:00,Battery health warning,approved
+141,3092,2026-06-27 08:08:00,Battery draining fast,approved
+142,2484,2026-06-28 01:44:00,Back glass lifting,approved
+143,2511,2026-06-28 20:51:00,Back glass lifting,approved
+144,3072,2026-06-29 23:14:00,Touch not responding,approved
+145,3109,2026-06-30 00:14:00,Display flicker or lines,approved
+146,2684,2026-07-04 02:52:00,Not holding charge,approved
+147,2793,2026-07-05 17:25:00,Loose cable connection,approved
+148,2860,2026-07-08 18:56:00,Touch not responding,approved
+149,2700,2026-07-12 07:11:00,Camera not focusing,approved
+150,2446,2026-07-12 18:47:00,Camera not focusing,approved
+151,3216,2026-07-13 02:27:00,Battery health warning,approved
+152,3230,2026-07-16 22:09:00,Loose cable connection,approved
+153,3065,2026-07-20 03:07:00,Loose cable connection,approved
+154,3344,2026-07-25 10:23:00,Battery health warning,approved
+155,2926,2026-07-25 16:05:00,Battery draining fast,rejected
+156,2597,2026-07-26 22:43:00,Screen lifting,approved
+157,3143,2026-07-27 06:25:00,Screen lifting,approved
+158,3286,2026-07-28 07:09:00,Not holding charge,approved
+159,2981,2026-07-28 18:07:00,Display flicker or lines,approved
+160,3146,2026-07-30 17:05:00,Battery health warning,approved
+161,3220,2026-07-30 19:29:00,Screen lifting,approved
+162,3359,2026-08-04 14:14:00,Screen lifting,approved
+163,3415,2026-08-08 06:54:00,Blurry photos,approved
+164,3266,2026-08-10 08:32:00,Touch not responding,approved
+165,3046,2026-08-10 11:04:00,Display flicker or lines,approved
+166,3470,2026-08-11 11:06:00,Display flicker or lines,approved
+167,3231,2026-08-12 07:15:00,Not charging,approved
+168,3084,2026-08-12 23:05:00,Display flicker or lines,approved
+169,3184,2026-08-14 12:38:00,Battery health warning,approved
+170,2668,2026-08-17 17:21:00,Loose cable connection,rejected
+171,3488,2026-08-18 10:36:00,Battery health warning,approved
+172,3028,2026-08-20 14:48:00,Back glass lifting,approved
+173,3647,2026-08-23 00:16:00,Back glass lifting,approved
+174,3420,2026-08-23 12:21:00,Screen lifting,rejected
+175,1916,2026-08-23 22:56:00,Loose cable connection,rejected
+176,3603,2026-08-31 13:03:00,Dead pixels,rejected
+177,3194,2026-08-31 17:51:00,Camera not focusing,approved
+178,3378,2026-09-01 08:41:00,Display flicker or lines,approved
+179,2907,2026-09-01 18:37:00,Display flicker or lines,approved
+180,3659,2026-09-04 03:48:00,Screen lifting,approved
+181,3764,2026-09-04 10:18:00,Screen lifting,approved
+182,3794,2026-09-05 15:12:00,Display flicker or lines,rejected
+183,3408,2026-09-06 13:10:00,Display flicker or lines,approved
+184,3821,2026-09-06 23:50:00,Camera not focusing,approved
+185,3492,2026-09-14 19:45:00,Display flicker or lines,approved
+186,3139,2026-09-16 02:20:00,Display flicker or lines,approved
+187,3001,2026-09-23 19:40:00,Not charging,approved
+188,2785,2026-09-28 02:41:00,Loose cable connection,approved
+189,3256,2026-09-28 07:06:00,Camera not focusing,approved
+190,3705,2026-10-02 22:27:00,Display flicker or lines,approved
+191,3720,2026-10-03 09:44:00,Battery health warning,approved
+192,3799,2026-10-07 01:22:00,Touch not responding,approved
+193,3817,2026-10-10 13:19:00,Display flicker or lines,approved
+194,3301,2026-10-13 05:31:00,Touch not responding,approved
+195,3946,2026-10-14 00:38:00,Display flicker or lines,approved
+196,3572,2026-10-14 06:18:00,Screen lifting,approved
+197,4026,2026-10-18 03:20:00,Display flicker or lines,approved
+198,3767,2026-10-20 04:07:00,Screen lifting,approved
+199,4181,2026-10-23 01:00:00,Back glass lifting,approved
+200,4042,2026-10-25 21:49:00,Touch not responding,approved
+201,4152,2026-10-31 06:00:00,Not charging,approved

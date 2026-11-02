@@ -1,0 +1,20 @@
+model_id,brand,model_name,device_type,release_year
+1,Apple,iPhone 11,phone,2019
+2,Apple,iPhone 12,phone,2020
+3,Apple,iPhone 13,phone,2021
+4,Apple,iPhone 13 Pro,phone,2021
+5,Apple,iPhone 14,phone,2022
+6,Apple,iPhone 14 Pro,phone,2022
+7,Apple,iPhone 15,phone,2023
+8,Apple,iPhone 15 Pro Max,phone,2023
+9,Apple,iPhone 16,phone,2024
+10,Apple,iPhone 16 Pro,phone,2024
+11,Samsung,Galaxy S22,phone,2022
+12,Samsung,Galaxy S23,phone,2023
+13,Samsung,Galaxy S24 Ultra,phone,2024
+14,Samsung,Galaxy A54,phone,2023
+15,Google,Pixel 7,phone,2022
+16,Google,Pixel 8,phone,2023
+17,Apple,MacBook Air M1,laptop,2020
+18,Apple,MacBook Air M2,laptop,2022
+19,Apple,MacBook Pro 14 M3,laptop,2023

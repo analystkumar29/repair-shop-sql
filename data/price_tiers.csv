@@ -1,0 +1,4 @@
+tier_id,tier_name,price_multiplier,warranty_months
+1,Value,0.85,3
+2,Recommended,1.00,6
+3,Premium,1.25,12
